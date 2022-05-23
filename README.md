@@ -1,4 +1,4 @@
-### `$ whoami`
+### `$ XTT WHO IS`
 
 ### Hi there, I'm XTT ✔️
 
