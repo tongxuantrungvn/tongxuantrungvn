@@ -1,8 +1,8 @@
-<!-- <h1 align="center">Hi 👋, I'm Le Anh Duc</h1>
+<!-- <h1 align="center">Hi 👋, I'm Tong Xuan Trung</h1>
 <p align="center">I am a student majoring in <b>Computer Science</b> with the dream of becoming a professional developer.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leanhducprovn&label=Profile%20views&color=0e75b6&style=flat" alt="leanhducprovn" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leanhducprovn&margin-w=15" alt="leanhducprovn" /></a> </p>
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/leanhducprovn/leanhducprovn/master/images/codepro.svg" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leanhducprovn&label=Profile%20views&color=0e75b6&style=flat" alt="tongxuantrungvn" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tongxuantrungvn&margin-w=15" alt="tongxuantrungvn" /></a> </p>
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/tongxuantrungvn/tongxuantrungvn/master/images/codepro.svg" />
 -   💻 I’m currently working on [Code Pro](https://www.code.pro.vn/)
 -   🌱 I’m looking to collaborate on [Sata Forum](https://sata.code.pro.vn/)
 -   📝 I regularly write articles on [https://www.code.pro.vn/](https://www.code.pro.vn/)
